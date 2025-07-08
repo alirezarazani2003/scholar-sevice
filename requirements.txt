@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+bs4
+httpx
+dotenv
+asyncpg
+python-dotenv
+requests
+beautifulsoup4
+alembic
+
