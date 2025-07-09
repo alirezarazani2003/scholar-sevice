@@ -31,7 +31,7 @@
 ### 1. کلون کردن مخزن
 
 ```bash
-git clone https://github.com/your-username/scholar-service.git
+git clone https://github.com/alirezarazani2003/scholar-service.git
 cd scholar-service
 ```
 
